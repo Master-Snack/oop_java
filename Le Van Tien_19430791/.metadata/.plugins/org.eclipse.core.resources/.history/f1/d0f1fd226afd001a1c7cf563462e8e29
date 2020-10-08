@@ -1,0 +1,24 @@
+package tuan1SinhVien;
+
+import java.security.PrivateKey;
+
+public class DanhSachSV {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Đây là bảo thông tin sinh viên");
+		xuatTieuDeCot();
+		nhapCung();
+		
+		//
+	}
+	static void xuatTieuDeCot() {
+		String s = "";
+		s+= String.format("%10s%25s%10s%10s%10s", "Mã Sinh Viên","Họ và Tên","Điểm LT","Điểm TH","Điểm TB");
+		System.out.println(s);
+	}
+	static void nhapCung() {
+		SinhVien sv1 = new SinhVien();
+		System.out.println(sv1);
+	}
+}

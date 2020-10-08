@@ -1,0 +1,30 @@
+Ba thuong con thi con giong...,Me,Ba,Ong ngoai,Ba noi,1
+Dau la ten mot loai ca,Tao,Chanh,Thu,Xoai,3
+Chu tich Ho Chi Minh ten khai sinh la gi,Van Ba,Nguyen Sinh Cung,Nguyen Sinh Sac,Nguyen Tat Thanh,2
+Doi bong nao vo dich U23 Chau A,Viet Nam,Uzbekistan,Nhan Ban,Dong Timor,2
+Thu do cua Hoa Ky la gi,New York,Carlifonia,Washington DC,Bang Texas,3
+Sau chien tranh the gioi thu 2 phong trao giai phong dan toc noi len manh nhat o chau luc nao,Chau A,Chau Phi,Chau My,Chau Au,2
+Giai thuong "Cu Neo Vang"danh cho nghe si hai duoc co quan nao trao tang,Bao Thanh Nien,Bao Tien Phong,Bao Tuoi Tre Cuoi,Bao Nhan Dan,3
+Vua Nao dat nien hieu nhieu nhat nuoc ta,Tran Thai Tong,Ly Nhan Tong,Ly Thai To,Le Thai Tong,2
+Lop phu ben ngoai la co tac dung han che hoi nuoc la,Cutin,Bieu bi,Vo la,Diep luc,1
+Nam 1954 nuoc ta ky hiep dinh nao voi Phap,Gio ne vo,Hoa binh,Hiep uoc Paris,Binh dang,1
+Huyen Vo Nhai thuoc tinh nao nuoc ta,Ha Noi,Thai Nguyen,Binh Dinh,Thanh Hoa,2
+Bien co nong do muoi lon nhat la,Bien Do,Bien Den,Bien Chet,Bien Dong,3
+Lan day tien nuoc ta dung boc pha 1000kg thuoc no danh giac la o dau,Mien Nam,Truong Son,Mien Bac,Dien Bien Phu,4
+O chua Boc, ngoai tho phat nhan dan con tho vi tuong nao,Vua Quang Trung,Tran Hung Dao,Ly Thuong Kiet,Vo Nguyen Giap,1
+Dat nuoc nao la que huong cua ong gia tuyet,Sibeia,Phan Lan,Nga,Anh,2
+Phim hoat hinh dau tien duoc cong chieu vao thoi gian nao,28-10-1892,21-3-2002,27-3-1871,25-6-1887,1
+Chien dich dien bien phu thang loi vao nam nao?,1945,1954,1969,1975,2
+Trong bai ca dao "con meo ma treo cay cau", chon chuot da di mua cai gi?,Mua do an,Mua mam, mua muoi,Mua nuoc uong,Mua quan ao,2
+Hien tuong ngay/dem tren Trai Dat la do...?,Mat troi quay xung quanh Trai Dat,Chua muon vay,Trai Dat hinh cau va co chuyen dong tu quay,Trai Dat quay xung quanh Mat Troi,3
+Kieu du lieu toi uu nhat trong mon hoc "Cau truc du lieu va giai thuat" la?,Cay nhi phan can bang,Cay nhi phan tim kiem,Mang,Danh sach lien ket don,1
+APEC la tu viet tat cua to chuc lien ket kinh te cua khu vuc nao?,Chau Au,Bac My,Chau A - Thai Binh Duong,Dong Nam A,3
+Chi so phat trien con nguoi la?,GDP,FDI,FED,HDI,4
+Loai banh nao sau day khac voi nhung loai banh con lai?,Banh bao,Banh mi,Banh xe,Banh chuoi,3
+Phan mem nao dung de giai nen du lieu?,Vietkey,Winrar,Unikey,Adobe reader,2
+Cham cuu la phuong phap dung cay kim de cham vao noi nao tren co the?,Huyet dao,Da,Xuong,Mo,1
+Den Ngoc Son nam o dau?,Ho Tay,Ho Xuan Huong,Ho Chi Minh,Ho Guom,4
+Nen kinh te so 1 the gioi hien nay la quoc gia nao?,My,Nhat Ban,Nga,Trung Quoc,1
+He thong dinh vi toan cau la he thong nao?,3G,GPS,GPRS,GSP,2
+Dau so dien thoai cua Viet Nam la gi?,+82,+83,+84,+85,3
+Bon con rong kinh te chau a bao gom Dai Loan, Hong Kong, Singapore va ...?,Viet Nam,Trung Quoc,Han Quoc,Thai Lan,3

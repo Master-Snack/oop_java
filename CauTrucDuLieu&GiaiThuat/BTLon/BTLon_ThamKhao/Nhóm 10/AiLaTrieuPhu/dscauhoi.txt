@@ -1,0 +1,342 @@
+26
+ch25
+25
+con gi sau day co 2 chan?
+6
+con bo
+6
+con ga
+7
+con cho
+7
+con voi
+1
+7
+ch24
+5
+4*4=?
+2
+20
+2
+16
+1
+4
+1
+8
+1
+6
+ch16
+6
+1+1=?
+
+1
+3
+1
+2
+1
+4
+1
+5
+1
+0
+ch15
+38
+Voi xuat hien nhieu nhat o dau tai VN?
+10
+Tay Nguyen
+8
+Mien Tay
+6
+Bac Bo
+10
+Mien Trung
+0
+14
+ch14
+29
+Quang Trung Nguyen Hue la gi?
+7
+cha con
+6
+anh em
+10
+nieen hieu
+6
+me con
+2
+13
+ch13
+18
+Tho luc bat la gi?
+2
+77
+2
+48
+2
+68
+2
+88
+2
+12
+ch12
+21
+BAc HO Sinh ra o dau?
+6
+Ha nOi
+7
+Nghe An
+7
+Dak LAk
+8
+Lam Dong
+1
+11
+ch11
+17
+thu do cua vN la?
+6
+Ha noi
+5
+TPHCM
+7
+DA NANG
+7
+CAN THO
+0
+10
+ch9
+15
+mau gi dep nhat
+7
+mau cam
+8
+mau vang
+6
+mau do
+8
+mau xanh
+2
+8
+ch8
+18
+ban thich gi nhat
+
+3
+hoa
+3
+nha
+4
+tien
+7
+suckhoe
+3
+7
+ch7
+14
+ban co bo chua
+4
+chua
+3
+roi
+10
+khong biet
+15
+khong thich noi
+3
+6
+ch5
+16
+ban thich mau gi
+2
+do
+4
+vang
+4
+xanh
+3
+tim
+1
+4
+ch4
+16
+ban thich mon gi
+5
+pizza
+2
+ga
+4
+thit
+3
+rau
+3
+3
+ch1
+13
+ten tui la gi
+4
+linh
+5
+linh1
+5
+linh2
+5
+linh3
+2
+0
+ch2
+18
+ban bao nhieu tuoi
+2
+11
+2
+12
+2
+13
+2
+14
+0
+1
+ch3
+13
+que ban o dau
+2
+DL
+2
+DN
+2
+BD
+2
+SG
+0
+2
+ch6
+16
+ban thich con gi
+3
+meo
+3
+cho
+3
+vit
+2
+ga
+2
+5
+ch10
+16
+ban hoc nganh gi
+4
+CNTT
+4
+KTPM
+4
+KHMT
+4
+HTTT
+1
+9
+ch11
+17
+ban hoc truong gi
+14
+DH CONG NGHIEP
+7
+DH CNTT
+5
+DH BK
+7
+DH SPKT
+3
+10
+ch17
+5
+2+2=?
+1
+4
+3
+3$
+
+1
+5
+1
+6
+0
+1
+ch18
+5
+3+3=?
+2
+10
+2
+12
+2
+14
+1
+6
+3
+2
+ch19
+17
+o to co may banh?
+6
+2 banh
+6
+4 banh
+6
+6 banh
+6
+8 banh
+1
+3
+ch20
+19
+dau long hai a ...?
+6
+to nga
+6
+to nha
+6
+nha to
+6
+nga to
+0
+4
+ch21
+26
+mot ngay co bao nhieu gio?
+3
+12h
+3
+24h
+3
+36h
+3
+48h
+1
+5
+ch22
+33
+dau la bo phan tren co the nguoi?
+4
+duoi
+4
+canh
+4
+rang
+4
+sung
+2
+6
+ch23
+19
+hoc di doi voi ...?
+3
+hoi
+3
+hat
+2
+ho
+4
+hanh
+3
+7

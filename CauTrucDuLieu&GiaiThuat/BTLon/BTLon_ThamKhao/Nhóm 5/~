@@ -1,0 +1,11 @@
+#include <iostream.h>
+#include<string.h>
+int main(int argc, char *argv[])
+{
+	string s ="123";
+	if(strcmp(s.c_str(),"21")==0)
+		cout<<"aaa";
+	else
+		cout<<"bbb";
+	return 0;
+}

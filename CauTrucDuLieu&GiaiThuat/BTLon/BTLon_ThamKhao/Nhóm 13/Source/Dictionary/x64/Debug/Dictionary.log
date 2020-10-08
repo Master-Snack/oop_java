@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\tk1tu\source\repos\Dictionary\ProgressBar.h(38,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(46,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(109,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(127,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Database.h(67,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Database.h(155,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\List_WordMean.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Dictionary.vcxproj -> C:\Users\tk1tu\source\repos\Dictionary\x64\Debug\Dictionary.exe

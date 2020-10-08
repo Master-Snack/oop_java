@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(49,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(101,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(103,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(120,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Label.h(122,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\List_WordMean.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tk1tu\source\repos\Dictionary\List_WordMean.h(119,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\List_WordMean.h(132,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(179,24): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(179,24): warning C4244:         with
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(179,24): warning C4244:         [
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(179,24): warning C4244:             _Elem=char
+C:\Users\tk1tu\source\repos\Dictionary\Main_Header.h(179,24): warning C4244:         ]
+C:\Users\tk1tu\source\repos\Dictionary\Main_From.h(137,1): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  Dictionary.vcxproj -> C:\Users\tk1tu\source\repos\Dictionary\Debug\Dictionary.exe

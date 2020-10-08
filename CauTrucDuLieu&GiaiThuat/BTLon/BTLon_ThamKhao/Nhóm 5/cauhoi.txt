@@ -1,0 +1,336 @@
+1
+Thiet Bi Nao Sau Day Dung De Ket Noi Mang?
+a. Ram
+b. Rom
+c. Router
+d. CPU
+c
+2
+Bo Nho Ram Va Rom La Bo Nho Gi?
+a. a
+b. Receive memory
+c. Secondary memory
+d. Random access memory
+a
+3
+Danh Sach Cac Muc Chon Trong Thuc Don Goi La:
+a. Menu Pad
+b. Menu Options
+c. Menu Bar
+d. Tat Ca Deu Sai
+c
+4
+Cong Dung Cua Phim Print Screen La Gi?
+a. In Ra May In
+b. Khong Co Cong Dung Gi
+c. In Van Ban
+d. Chup Man Hinh
+d
+5
+Muon Lam Cho Cua So Nho Hon,Su Dung Nut Nao?
+a. Maximum
+b. Minimum
+c. Restore Down
+d. Close
+c
+6
+Cong Dung Cua To Hop Phim Ctrl-S La Gi?
+a. Tao Van Ban Moi
+b. Thay The Noi Dung
+c. Dinh Dang Chu Hoa
+d. Luu Noi Dung Vao Dia
+d
+7
+Chen Ki Tu Dac Biet Vao Van Ban Ta Chon?
+a. View - SymBol
+b. Format - Symbol
+c. Tools - Symbol
+d. Insert - Symbol
+d
+8
+Dua Con Tro Ve Cuoi Van Ban Ta Su Dung?
+a. Shift + End
+b. Alt + End
+c. Ctrl + End
+d. Ctrl + Alt + End
+c
+9
+Chon Tat Ca Van Ban Trong Word Ta Chon?
+a. Alt + A
+b. Ctrl + A
+c. Ctrl + Shift + A
+d. Cau 1 va Cau 2
+b
+10
+De Chon Mot Doan Van Ban Ta Thuc Hien:
+a. Click 1 Lan Tren Doan
+b. Click 2 Lan Tren Doan
+c. Click 3 Lan Tren Doan
+d. Click 4 Lan Tren Doan
+c
+11
+Trong Word,Muon Danh Dau Lua Chon Mot Tu Ta Chon?
+a. Nhap Dup Chuot Vao Tu Chon
+b. Bam To Hop Ctrl-C
+c. Nhay Chuot Vao Tu Chon
+d. Bam Phim Enter
+a
+12
+Trong Word,Muon Tach Mot O Trong Table Thanh Nhieu O Chon
+a. Table - Merge Cells
+b. Table - Split Cells
+c. Tools - Split Cells
+d. Table - Cells
+b
+13
+Gia Tri Cua =LEN(“TRUNG TAM TIN HOC”)Trong Excel La:
+a. 15
+b. 16
+c. 17
+d. 18
+c
+14
+Trong Excel,Ham Nao Dung De Tim Kiem
+a. Vlookup
+b. If
+c. Left
+d. Sum
+a
+15
+Trong Excel,De Luu Tap Tin Dang Mo duoi Ten Khac Ta Chon?
+a. File/Save As
+b. File/Save
+c. File/New
+d. Edit/Replace
+a
+16
+Trong Excel, Ham Today() Tra Ve:
+a. So Ngay Trong Thang
+b. So Thang Trong Nam
+c. Ngay Hien Tai Cua He Thong
+d. So gio Trong Ngay
+c
+17
+Trong Excel,Cac Dang Dia Chi Sau Day, Dia Chi Nao La Tuyet Doi
+a. B$1$$10$D
+b. B$1
+c. $B1:$D10
+d. $B$1:$D$10
+d
+18
+Trong PowerPoint De Tao Moi 1 Slide Ta Su Dung?
+a. Home->Slides->New Slide
+b. Insert->New Slide
+c. Design->New Slide
+d. View->New Slide
+a
+19
+Trong PowerPoint Muon Danh So Trang Cho Tung Slide Ta Dung
+a. Insert\Bullets
+b. Insert\Text\Slide Number
+c. Format\Bullets and Number
+d. Tat Ca Deu Sai
+b
+20
+Trong Word,Bieu Tuong Cay Choi Co Chuc Nang Gi?
+a. Sao Chep Noi Dung Van Ban
+b. Canh Le Van Ban
+c. Sao Chep Dinh Dang
+d. Mo Van Ban Da Co
+c
+21
+Phim Tat De Sao Chep Doi Tuong Vao ClipBoard La Gi?
+a. Ctrl + X
+b. Ctrl + C
+c. Ctrl + V
+d. Ctrl + Z
+b
+22
+Hop Dieu Khien Phong To,Thu Nho Dong Cua So Goi La?
+a. Dialog Box
+b. Control Box
+c. List Box
+d. Text Box
+b
+23
+De Dam Bao An Toan Du Lieu Ta Chon Cach Nao?
+a. Dat Thuoc Tinh Hidden
+b. Coppy Tren O Dia
+c. Dat Thuoc Tinh Read Only
+d. Sao Luu Du Phong
+d
+24
+Trong WinDows Chuc Nang Disk Defragment Goi La?
+a. Chong Phan Manh O Cung
+b. Lam Giam Dung Luong O Cung
+c. Sao Luu Du Lieu
+d. Lau Chui Tap Tin Rac
+a
+25
+Thuoc Tinh Mo Rong Word 2010 Co Phan Mo Rong ?
+a. .doc
+b. .docx
+c. .dot
+d. .txt
+b
+26
+Bieu Thuc Sau=AND(5>4,6<9,2<1,10>7,OR(2<1,3>2)
+a. True
+b. False
+c. #Name?
+d. #Value!
+b
+27
+Dia Chi B$3 La Dia Chi
+a. Tuong Doi
+b. Tuyet Doi
+c. Hon Hop
+d. Bieu Dien Sai
+c
+28
+Trong PowerPoint In An Ta Su Dung Chuc Nang
+a. Home->Print
+b. Insert->Print
+c. Design->Print
+d. File->Print
+d
+29
+Trong PowerPoint Muon Chen Nhac Vao Silde, Ta Dung Lenh Nao?
+a. Insert->Audio
+b. Insert->Component
+c. Insert->Diagram
+d. Insert->Comment
+a
+30
+Tai 1 Sile Trong PowerPoint Ta Dung To Hop Phim Nao De Xoa
+a. ALT+I+D
+b. ALT+E+F
+c. ALT+E+D
+d. ALT+W+P
+c
+31
+Dich Vu Luu Tru Dam May Cua Microsoft La Gi?
+a. Google Driver
+b. MediaFile
+c. OneDrive
+d. Ca 3 Dap An
+c
+32
+Ten Mien .edu Cho Biet Website Do Thuoc Ve Linh Vuc?
+a. Chinh Phu
+b. Giao Duc
+c. Cung Cap Thong Tin
+d. To Chuc Khac
+b
+33
+Phan Mem Nao Sau Day Khong Phai La Trinh Duyet Web?
+a. Internet Explorer
+b. Mozilla Firefox
+c. Netcape
+d. Unikey
+d
+34
+Trong Word,Dinh Dang Duong Khung Cho 1 Doan Van Ban Ta Chon
+a. Picture
+b. Clip Art
+c. Word Art
+d. Tat ca Sai
+d
+35
+Trong PowerPoint De Ve Bieu Do Ta Chon?
+a. Design-Chart
+b. Insert-IIustration Chart
+c. Amination-Chart
+d. Home-Chart
+b
+36
+Y Nghia Recycle Bin Trong Windos La Gi?
+a. Trinh Duyet Web
+b. O Dia C
+c. Chua Tap Tin Da Xoa
+d. Phan Mem Game
+c
+37
+Trong Explorer Muon Tao Thu Muc Moi Ta Thuc Hien
+a. Tool-New-Folder
+b. View-New-Folder
+c. File-New-Folder
+d. Edit-New-Folder
+c
+38
+De May Tinh Lam Viec He Dieu Hanh Duoc Cai Dat O Dau
+a. Ram
+b. Rom
+c. O Dia Cung
+d. Tat Ca Sai
+c
+39
+Trong Word,Tao Chu Roi Cho Van Ban Ta Chon
+a. Home-DropCap
+b. Insert-DropCap
+c. View-DropCap
+d. PageLayOut-DropCap
+c
+40
+Trong Window , Muon Tim Kiem Tep Hay Thu Muc , Ta Thuc Hien
+a. File - Search
+b. Windows - Search
+c. Start - Search
+d. Tools - Search
+c
+41
+He Dieu Hanh La
+a. Phan Mem Ung Dung
+b. Phan Mem He Thong
+c. Phan Mem Tien Ich
+d. Tat Ca Deu Dung
+b
+42
+Nguoi Va May Tinh Giao Tiep thong Qua
+a. Ban Phim Va May Tinh
+b. He Dieu Hanh
+c. Ram
+d. Tat Ca Deu Dung
+b
+43
+Viet Nam Chinh thuc Gia Nhap Internet Nam Nao ?
+a. Cuoi Nam 1999
+b. Cuoi Nam 1998
+c. Cuoi Nam 1997
+d. Nuoi Nam 1996
+c
+44
+Trong Ket Noi Mang May Tinh Cuc Bo Gom May Loai Cap Mang ?
+a. 2
+b. 3
+c. 4
+d. 5
+b
+45
+Hay Chon Ra Thiet Bi Mang
+a. USB
+b. UPS
+c. Hub
+d. Webcam
+c
+46
+trong Mang May Tinh ,Thuat Ngu Share Co Y Nghia Gi ?
+a. Chia Se Tai Nguyen
+b. Nhan Hieu Nao Do
+c. Thuc Hien Lenh In
+d. Mot Phan Mem Ho Tro
+a
+47
+To Hop Phim Cua Undo la Gi ?
+a. Ctrl - Z
+b. Ctrl - X
+c. Ctrl - V
+d. Ctrl - A
+a
+48
+Hoat Dong Nao Sau Day Co Su Dung CSDL ?
+a. 12
+b. Quan Ly Hoc Sinh 
+c. Ban Hang Co Quy Mo
+d. Tat Ca Deu Dung
+d

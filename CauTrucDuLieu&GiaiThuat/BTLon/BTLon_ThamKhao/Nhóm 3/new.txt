@@ -1,0 +1,534 @@
+@aback
+[”'b“k]
+  *pho tu
+    -lui lai, tro lai phia sau
+      =$to stand aback from sb/sth: +dung lui lai de tranh ai/cai gi
+    -(nghia bong) sung sot, ngac nhien
+      =$to be taken aback by the news: +sung sot vi cai tin do
+@abandon
+[”'b“nd”n]
+  *ngoai dong tu
+    -tu bo; bo roi, ruong bo
+      =$to abandon a hope: +tu bo hy vong
+  *danh tu
+    -su phong tung, su tu do, su buong tha
+      =$with abandon: +mot cach phong tung
+@abase
+[”'beis]
+  *ngoai dong tu
+    -lam ha pham gia, lam mat the dien, lam nhuc
+      =$backbiting the others is to abase oneself: +noi xau nguoi khac la tu ha pham gia minh
+@abasement
+[”'beism”nt]
+  *danh tu
+    -su lam ha pham gia, su lam mat the dien, su lam nhuc
+@abash
+[”'b“']
+  *ngoai dong tu
+    -lam boi roi, lam lung tung, lam luong cuong
+@blue
+[blu:]
+  *tinh tu
+    -xanh
+      =$dark blue: +xanh sam
+    -(thong tuc) chan nan, that vong
+      =$to feel blue: +cam thay chan nan
+  *danh tu
+    -mau xanh
+      =$to be dressed in blue: +mac quan ao mau xanh
+@boar
+[b˜:]
+  *danh tu
+    -lon loi duc
+    -thit lon duc
+@board
+[b˜:d]
+  *danh tu
+    -tam van
+    -bang
+      =$a notice board: +bang thong cao
+    -giay boi, bia cung
+    -com thang, com tro; tien com thang
+    -ban an
+      =$the festive board: +ban tiec
+@bombardier
+[,b˜mb”'di”]
+  *danh tu
+    -phao thu
+    -(tu My,nghia My) nguoi cat bom (tren may bay nem bom)
+@cast
+[k:st]
+  *danh tu
+    -su quang, su nem (luoi...); su tha (neo...); su gieo (suc sac...)
+    -(nghia bong) su thu lam, su cau may
+      =$I'll have another cast yet: +toi se lam thu mot lan nua
+    -khoang nem; tam xa (cua mui ten)
+    -moi va luoi cau; cho cau (cau ca)
+@cataract
+['k“t”r“kt]
+  *danh tu
+    -thac nuoc lon
+    -con mua nhu trut nuoc
+    -(y hoc) benh duc nhan mat
+    -(ky thuat) bo hoan xung; cai ham, may ham
+@catarrh
+[k”'t:]
+  *danh tu
+    -(y hoc) chung chay, viem chay
+@catcher
+['k“t'”]
+  *danh tu
+    -nguoi bat tom
+    -(the duc,the thao) nguoi bat bong (bong chay)
+@catchfly
+['k“t', flai]
+  *danh tu
+    -(thuc vat) cay bat ruoi
+@catchiness
+['k“t'inis]
+  *danh tu
+    -tinh hap dan, su loi cuon, su quyen ru
+    -tinh de nho, de thuoc
+    -tinh danh lua; su cho vao bay
+@catching
+['k“t'i–]
+  *tinh tu
+    -truyen nhiem, hay lay
+      =$a catching disease: +mot benh hay lay
+    -hap dan, loi cuon, quyen ru
+@catchment
+['k“t'm”nt]
+  *danh tu
+    -su hung nuoc, su dan nuoc
+@cathartic
+[k”'•:tik]
+  *tinh tu
+    -tay nhe; de tay nhe
+  *danh tu
+    -thuoc tay nhe
+@cathay
+[k“•ei; k”•ei]
+  *danh tu
+    -(tu co, nghia co) Trung Quoc
+@cathead
+['k“t hed]
+  *danh tu
+    -bo phan dau mui thuyen de buoc day neo
+    -toi neo
+    -xa mui tau
+@cathedra
+[k”'•i:dr”l]
+  *danh tu
+    -cho ngoi cua ong giam muc
+@cent
+[sent]
+  *danh tu
+    -dong xu (bang 1 phan tram do la)
+      =$red cent: +(tu My,nghia My) dong xu dong
+   !$I don't care a cent: -xem $care
+@cental
+['sentl]
+  *danh tu
+    -ta Anh (bang 45 kg 36)
+@centare
+['sente”]
+~Cach viet khac:
+~$centiare$
+['senti,e”]
+  *danh tu
+    -don vi bang mot met vuong
+@coffee
+['k˜fi]
+  *danh tu
+    -ca phe
+      =$coffee bar, coffee shop: +quan ca phe
+    -bot ca phe
+    -hot ca phe rang
+    -cay ca phe
+@coir
+['k˜i”]
+  *danh tu
+    -xo dua
+@coital
+['kouitl]
+  *tinh tu
+    -thuoc ve su giao cau
+@cold
+[kould]
+  *tinh tu
+    -lanh, lanh leo, nguoi
+      =$cold water: +nuoc lanh
+      =$I'm cold: +toi cam thay lanh, toi lanh
+    -lam chan nan, lam that vong, nhat nheo, khong co gi thu vi
+      =$cold news: +nhung tin tuc lam chan nan
+@come
+[k—m]
+  *noi dong tu came; come
+    -den, toi, di den, di toi, di lai
+      =$to come and go: +di di lai lai
+      =$come here!: +lai day!
+    -sap den, sap toi
+      =$in years to come: +trong nhung nam sap toi
+@comfort
+['k—mf”t]
+  *danh tu
+    -su an ui, su khuyen giai; nguoi an ui, nguoi khuyen giai; nguon an ui, loi an ui
+      =$a few words of comfort: +vai loi an ui
+    -su an nhan, su nhan ha; su sung tuc
+      =$to live in comfort: +song an nhan sung tuc
+@course
+[k˜:s]
+  *danh tu
+    -tien trinh, dong; qua trinh dien bien
+      =$the course of a river: +dong song
+      =$the course of events: +qua trinh dien bien cac su kien
+@cover
+['k—v”]
+  *danh tu
+    -vo, vo boc, cai boc ngoai; bia sach; phong bi
+      =$under the same cover: +trong cung mot boc, trong cung mot phong bi
+    -vung, nap
+      =$the cover of a pan: +vung chao, vung xoong
+@day
+[dei]
+  *danh tu
+    -ban ngay
+      =$the sun gives us light during the day: +ban ngay mat troi cho ta anh sang
+      =$by day: +ban ngay
+@death
+[de•]
+  *danh tu
+    -su chet; cai chet
+      =$natural death: +su chet tu nhien
+      =$wounded to death: +bi tu thuong
+@decay
+[di'kei]
+  *danh tu
+    -tinh trang suy tan, tinh trang suy sup, tinh trang sa sut (quoc gia, gia dinh...)
+    -tinh trang do nat, tinh trang muc nat (nha cua...)
+    -tinh trang thoi rua; cho thoi (qua)
+    -tinh trang sau, tinh trang muc (rang, xuong, go...)
+@deliver
+[di'liv”]
+  *ngoai dong tu
+    -(+ from) cuu, cuu khoi, giai thoat
+    -phan phat thu, phan phoi, giao
+    -doc, phat bieu, giai bay, bay to
+      =$to deliver a speech: +doc mot bai dien van
+      =$to deliver oneself of an opinion: +giai bay y kien
+@dog
+[d˜g]
+  *danh tu
+    -cho
+    -cho san
+    -cho duc; cho soi duc (cung $dog wolf); cao duc (cung $dog fox)
+    -ke de tien, ke dang khinh, do cho ma; ke can cau cuc can
+    -ga, thang cha
+      =$a sly dog: +thang cha ma giao, thang cha ranh ma
+@foot
+[fut]
+  *danh tu, so nhieu feet
+    -chan, ban chan (nguoi, thu...)
+    -buoc chan, cach di
+    -(quan su) bo binh
+      =$horse, foot and artillery: +ky binh, bo binh va phao binh
+    -chan (giuong, ghe, tuong, nui...); be phia duoi, cuoi
+      =$at the foot of a page: +o cuoi trang
+@forget
+[f”'get]
+  *ngoai dong tu forgot, forgotten
+    -quen, khong nho den
+    -coi thuong, coi nhe
+  *noi dong tu
+    -quen
+      =$to forget about something: +quen cai gi
+@garden
+['g:dn]
+  *danh tu
+    -vuon
+      =$a vegetable garden: +vuon rau
+    -(so nhieu) cong vien, vuon
+      =$zoological gardens: +vuon bach thu
+      =$botanical gardens: +vuon bach thao
+@generous
+['d™en”r”s]
+  *tinh tu
+    -rong luong, khoan hong
+    -rong rai, hao phong
+    -thinh soan
+      =$a generous meal: +bua an thinh soan
+    -mau mo, phong phu
+      =$generous soil: +dat mau mo
+@global
+['gloub”l]
+  *tinh tu
+    -toan cau
+      =$global strategy: +chien luoc toan cau
+      =$global movement against drug addiction: +phong trao toan the gioi chong nan nghien ma tuy
+    -toan the, toan bo, bao trum
+@human
+['hju:m”n]
+  *tinh tu
+    -(thuoc) con nguoi, (thuoc) loai nguoi
+      =$human being: +con nguoi
+      =$human nature: +ban tinh con nguoi, nhan tinh
+    -co tinh nguoi, co tinh cam cua con nguoi
+@it
+[it]
+  *dai tu
+    -cai do, dieu do, con vat do
+    -troi, thoi tiet...
+      =$it is raining: +troi dang mua
+      =$it is cold: +thoi tiet lanh
+   -axit itaconic
+@jacket
+['d™“kit]
+  *danh tu
+    -ao vet tong (dan ong), ao vet (dan ba)
+    -(ky thuat) cai bao, ao giam nhiet (boc may...)
+    -bia boc sach; (tu My,nghia My) bia tai lieu chinh thuc
+    -da, bo long (suc vat); vo (khoai tay)
+@join
+[d™˜in]
+  *ngoai dong tu
+    -noi lai, chap, ghep, buoc (cai no vao cai kia)
+    -noi lien
+      =$the road joins the two cities: +con duong noi lien hai thanh pho
+    -that chat, hop nhat, ket hop, lien hiep; ket giao, ket than
+@jump
+[d™—mp]
+  *danh tu
+    -su nhay, buoc nhay
+      =$long (broad) jump: +(the duc,the thao) nhay xa
+      =$high jump: +(the duc,the thao) nhay cao
+@keen
+[ki:n]
+  *danh tu
+    -bai hat tang (kem theo tieng than khoc o Ai-len)
+  *noi dong tu
+    -hat bai hat tang
+    -than van ai oan, than khoc tham thiet
+  *ngoai dong tu
+    -than khoc thuong tiec ai
+  *tinh tu
+    -sac, ben (dao); nhon (kim)
+@kid
+[kid]
+  *danh tu
+    -con de non
+    -da de non (lam gang tay, dong giay...)
+    -(tu long) dua tre con, thang be
+  *dong tu
+    -de (de)
+  *danh tu
+    -(tu long) su lua phinh, ngon choi kham
+  *ngoai dong tu
+    -(tu long) lua phinh, choi kham
+@link
+[li–k]
+  *danh tu
+    -mat xich, vong xich, khau xich
+    -mat day dac (= 0, 20 m)
+    -(so nhieu) khuy cua tay
+    -mat luoi; mat ao soi det, mat ao soi dan
+    -moi lien lac; cho noi; vat de noi
+  *ngoai dong tu
+    -lien ket, noi ket
+@mail
+[meil]
+  *danh tu
+    -ao giap
+  *ngoai dong tu
+    -mac ao giap
+  *danh tu
+    -thu tu; buu kien, buu pham
+    -chuyen thu
+    -buu dien; buu chinh
+@mark
+[m:k]
+  *danh tu
+    -dong Mac (tien Duc)
+    -dau, nhan, nhan hieu
+    -vet, lan
+    -bot (nguoi), dom, lang (suc vat)
+      =$a horse with a white mark on its head: +mot con ngua co dom trang o dau
+    -dau chu thap (thay chu ky cua nhung nguoi khong biet viet)
+    -dich, muc dich, muc tieu (nghia den & nghia bong)
+      =$to hit the mark: +ban trung dich; dat muc dich
+@market
+['m:kit]
+  *danh tu
+    -cho
+      =$to go to market: +di cho
+    -thi truong, noi tieu thu; khach hang
+      =$the foreign market: +thi truong nuoc ngoai
+    -gia thi truong; tinh hinh thi truong
+@merry
+['meri]
+  *tinh tu
+    -vui, vui ve
+      =$to wish somebody a merry Christmas: +chuc ai mot mua giang sinh vui ve
+    -(tu co,nghia co) vui ve, thu vi, de chiu
+      =$the merry month of May: +thang nam de chiu
+      =$Merry England: +nuoc Anh vui ve
+    -nga nga say; chenh choang
+@miss
+[mis]
+  *danh tu
+    -(thong tuc) co gai, thieu nu
+  *ngoai dong tu
+    -truot, hong, trech, khong trung (dich)
+      =$to miss one's aim: +ban trech dich; khong dat muc dich
+    -lo, nho
+      =$to miss the train: +lo chuyen xe lua
+@mock
+[m˜k]
+  *danh tu
+    -(tu co,nghia co) su che nhao, su nhao bang, su che gieu
+      =$to make a mock of someone: +che nhao ai, che gieu ai
+  *tinh tu
+    -gia, bat chuoc
+      =$mock modesty: +khiem ton gia
+      =$mock battle: +tran gia
+@movie
+['mu:vi]
+  *danh tu, (thong tuc)
+    -phim xi ne
+    -rap chieu bong
+    -(so nhieu) nganh phim anh; nghe thuat phim xi ne
+      =$to go to the movies: +di xem phim
+@name
+[neim]
+  *danh tu
+    -ten, danh tanh
+      =$maiden name: +ten thoi con gai
+      =$I know him only by name: +toi chi biet ten ong ta
+  *ngoai dong tu
+    -dat ten; goi ten
+      =$can you name all the flowers in this garden?: +anh co the noi ten duoc tat ca cac loai hoa trong vuon nay khong?
+    -dinh ro; noi ro
+@native
+['neitiv]
+  *tinh tu
+    -(thuoc) noi sinh
+      =$native country; native place: +noi sinh, que huong
+    -tu nhien, bam sinh
+      =$native ability: +tai nang bam sinh, thien tu
+  *danh tu
+    -nguoi sinh o, nguoi que quan o, nguoi dia phuong, tho dan
+      =$a native of Hanoi: +nguoi que o Ha noi
+@ocean
+['”š'n]
+  *danh tu
+    -dai duong, bien
+      =$an ocean voyage: +cuoc hanh trinh tren dai duong
+    -khoang menh mong (co...)
+    -mot trong nhung khu vuc chinh phan chia khoi nuoc do
+@off
+[˜:f]
+  *pho tu
+    -tat
+      =$is the lamp off?: +den da tat chua?
+    -di, di roi
+      =$they are off: +ho da di roi
+      =$off with you: +di di, cut di
+    -ra khoi, dut, roi
+@on
+[˜n]
+  *gioi tu
+    -tren, o tren
+      =$a book on the table: +quyen sach o tren ban
+    -mang theo (nguoi)
+      =$have you a match on you?: +anh co mang theo hop diem khong?
+    -o sat, o ven
+      =$towns on the frontiers: +nhung thanh pho ven bien gioi
+@or
+[˜:]
+  *danh tu
+    -vang (o huy hieu)
+  *gioi tu
+    -(tu co,nghia co) truoc, truoc khi
+  *lien tu
+    -hoac, hay la
+      =$in the heart or in the head: +hoac o trong tim hoac o trong dau
+      =$is it right or wrong?: +cai do dung hay sai?
+    -neu khong
+@paint
+[peint]
+  *danh tu
+    -son; voi mau; thuoc mau
+    -lop son (son da kho)
+  *danh tu so nhieu paints
+    -nhung tuyp thuoc mau, nhung thoi thuoc mau
+      =$a set of oil-paints: +mot hop son dau
+    -phan (my pham cua phu nu)
+@pay
+[pei]
+  *ngoai dong tu paid
+    -tra (tien luong...); nop, thanh toan
+      =$to pay somebody: +tra tien ai
+ *noi dong tu
+    -tra, thanh toan; dong gop
+    -(+ for) (nghia bong) phai tra gia dat, phai chiu hau qua
+      =$he shall pay for it: +han se phai tra gia dat ve viec do
+@quick
+[kwik]
+  *danh tu
+    -thit mem (duoi mong tay, mong chan, trong vet thuong)
+    -tam can, ruot gan; cho nhay cam nhat (cua tam hon)
+      =$the insult stung him to the quick: +loi lang ma lam anh dau nhoi tam can
+      =$to cut (touch) to the quick: +cham vao cho nhay cam nhat, cham noc
+    -(the quick) (tu co,nghia co) nhung nguoi con song
+@rear
+[ri”]
+  *danh tu
+    -bo phan dang sau, phia sau
+      =$the garden is at the rear of the house: +khu vuon o dang sau nha
+    -(quan su) hau phuong (doi voi tien tuyen)
+    -(quan su) hau quan
+  *ngoai dong tu
+    -ngang len, dua len; len (giong)
+      =$to rear one's head: +ngang dau len
+@regular
+['regjul”]
+  *tinh tu
+    -deu deu, khong thay doi; thuong le, thuong xuyen
+      =$regular pulse: +mach dap deu deu
+  *danh tu
+    -(quan su) quan chinh quy
+    -(thong tuc) khach hang quen
+@release
+[ri'li:s]
+  *danh tu
+    -su giai thoat, su thoat khoi (dieu lo lang, sau muon, benh tat...)
+    -su tha, su phong thich
+      =$a release of war prisoners: +su phong thich tu binh
+@remove
+[ri'mu:v]
+  *danh tu
+    -mon an tiep theo (sau mot mon khac)
+    -su len lop
+      =$examination for the remove: +ky thi len lop
+      =$not to get one's remove: +khong duoc len lop
+    -lop chuyen tiep (trong mot so truong o Anh)
+@repair
+[ri'pe”]
+  *danh tu
+    -su sua chua, su tu sua, su hoi phuc lai (cai gi bi hu hong..)
+      =$to be under repair: +dang duoc sua chua
+  *ngoai dong tu
+    -sua chua, hoi phuc lai, tu sua (cai gi bi pha hong, bi mon..)
+      =$to repair a road: +sua lai duong
+@tornado
+[t˜:'neidou]
+  *danh tu, so nhieu tornadoes, tornados
+    -bao tap, con loc xoay
+      =$the town was hit by a tornado: +thanh pho da bi tan pha boi mot con bao
+    -(nghia bong) cuoc bien loan, con bao tap
+@tote
+[tout]
+  *danh tu
+    -(thong tuc) bo tong, bo dem (thiet bi tu dong ghi so tien dat cuoc vao cac con ngua dua.. de tong so tien co the chia ra cho nhung nguoi dat cuoc vao con ngua thang cuoc) (nhu $totalizator$)
+  *ngoai dong tu
+    -(tu My,nghia My), (thong tuc) mang, vac, khuan, chuyen cho, van chuyen, van tai
+      =$I've been toting this bag round all day: +toi da deo chiec tui nay di suot ca ngay
